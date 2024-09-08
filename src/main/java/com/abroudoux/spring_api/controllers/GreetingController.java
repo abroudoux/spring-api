@@ -1,5 +1,6 @@
-package com.abroudoux.spring_api;
+package com.abroudoux.spring_api.controllers;
 
+import com.abroudoux.spring_api.entities.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
